@@ -1,11 +1,11 @@
 body {
     background-color: black;
-    color: white;
+    color: rgba(145, 124, 124, 0.452);
 }
 
 h1 {
     color: rgb(85, 172, 212)
 }
-p {
+p{
     color: white;
 }
