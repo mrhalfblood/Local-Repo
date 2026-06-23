@@ -1,11 +1,15 @@
 body {
     background-color: black;
-    color: rgba(145, 124, 124, 0.452);
+    color: white;
 }
 
 h1 {
     color: rgb(85, 172, 212)
 }
-p{
-    color: white;
+p {
+    color: rgb(157, 250, 148);
+}
+
+h3{
+    color: darkblue;
 }
